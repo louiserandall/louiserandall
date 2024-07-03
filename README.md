@@ -1,6 +1,6 @@
 <h1>Hi, I'm Louise! <br/><a href="https://github.com/louiserandall">Data Analyst</a>, <a href="https://www.linkedin.com/in/louise-marie-randall/">Data Science Professional</a>
 
-## Background
+## Background:
 
 🌟 **Transitioned to Tech:**
 From senior administrator roles across various education and logistics sectors to the tech industry in October 2022.
