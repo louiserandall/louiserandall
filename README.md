@@ -28,6 +28,8 @@ Feel free to explore the code, datasets, and documentation. Let’s connect and 
 
 <h2>👨‍💻 Data Science and Analytics Projects:</h2>
 
+- <b>Beyond The Pitch Exploratory Data Analysis for Women's Football (Jupyter Notebook)</b>
+  - [Data Cleaning, analysis and visuals in Python](https://github.com/louiserandall/Beyond-The-Pitch)
 - <b>Exploratory Data Analysis for Telecom Users (Jupyter Notebook)</b>
   - [Data Cleaning, analysis and visuals in Python](https://github.com/louiserandall/Telecom-Users)
 - <b>Helpdesk Tickets (Excel, Powerpoint, Google Looker)</b>
