@@ -8,9 +8,10 @@ From senior administrator roles across various education and logistics sectors t
 📚 **Continuous Learning:**
 Completed an online data science bootcamp in 2023.
 Earned a Machine Learning Specialization certificate from Stanford University and Deep Learning AI in 2023.
-Achieved the Google Data Analytics Professional Certificate on Coursera in  2023. Subscribed to Maven Analytics Pro for continuous learning.
+Achieved the Google Data Analytics Professional Certificate on Coursera in  2023. Subscribed to Maven Analytics Pro for continuous learning from 2024 into 2025.
 
 💡 **Hands-On Experience:**
+Two years working for Citizens Advice as Data and Performance Analyst 
 Worked as a trainee data analyst for three months.
 Built my GitHub portfolio from scratch.
 Created a Tableau Public account and honed my Excel skills.
@@ -22,7 +23,7 @@ Attended the Women in Data (WiD) flagship event in March 2023 which inspired me 
 
 
 ## Purpose of this Repository:
-🚀 In this repository, you’ll find a collection of my data science projects. From exploratory data analysis to predictive modeling, each project reflects my passion for turning data into actionable knowledge. Whether it’s predicting movie success, analyzing sales trends, I’m excited to share my journey with you.
+🚀 In this repository, you’ll find a collection of my data science projects. From exploratory data analysis to predictive modeling, each project reflects my passion for turning data into actionable knowledge. Whether it’s predicting movie success, analyzing football trends, I’m excited to share my journey with you.
 
 Feel free to explore the code, datasets, and documentation. Let’s connect and learn together! 📊
 
